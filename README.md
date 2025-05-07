@@ -1,6 +1,6 @@
 # 🎨 Gerador de padrões artísticos abstratos utilizando Deep Convolutional Generative Adversarial Network (DCGAN)
 
-Este projeto explora o uso de Deep Convolutional Generative Adversarial Networks (DCGANs) para gerar imagens sintéticas de arte abstrata. O modelo foi implementado como parte de um trabalho acadêmico para a disciplina de Redes Neurais.
+Este projeto explora o uso de Deep Convolutional Generative Adversarial Networks (DCGANs) para gerar imagens sintéticas de arte abstrata. O modelo foi implementado como parte de um trabalho acadêmico para a disciplina Visão Computacional ministrada pelo professor Helton Maia do mestrado no PPGTI/IMD.
 
 ---
 
